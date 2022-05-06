@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1098923076376",
+    "project_id": "newlogin-80952",
+    "storage_bucket": "newlogin-80952.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098923076376:android:ee0b1dd4c94aa088744c6d",
+        "android_client_info": {
+          "package_name": "com.example.dukkanet_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098923076376-a2ku36su3acvotlt8nm0semt4lqnr0km.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dukkanet_login",
+            "certificate_hash": "1e01b970416480919677d3f4dfb4226ef94bfa61"
+          }
+        },
+        {
+          "client_id": "1098923076376-der3pss6upqnlksqka3l7621d4amtbop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbra5LfuSeGRR_99CrcipgQmMWwCgIlKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098923076376-der3pss6upqnlksqka3l7621d4amtbop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
